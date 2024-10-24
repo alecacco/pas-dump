@@ -1,0 +1,8 @@
+*.exe
+*.txt
+*.zip
+*.rar
+*.doc
+TP*/
+FreePascal/
+*.ow

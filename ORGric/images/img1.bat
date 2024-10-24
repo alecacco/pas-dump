@@ -1,0 +1,1 @@
+images\IrfanViewPortable\IrfanViewPortable.exe %CD%\images\1.jpg

@@ -1,0 +1,1 @@
+If this file is placed in GetDiz directory, GetDiz will not use the registry, but save configuration the GetDiz folder. This way GetDiz will work even if you move the folder to another location.

@@ -1,0 +1,14 @@
+capitolo:
+nome ricetta:
+punteggio ricetta (0-5):
+data di inserimento nel ricettario (modificabile):
+giorno
+mese
+anno
+la ricetta è mai stata provata? (s/n)
+ingredienti della ricetta (uno per riga)
+fine ingredienti
+procedimento(è possibile scrivere su piu' righe)
+fine procedimento
+commento sulla ricetta(è possibile scrivere su piu' righe):
+fine commenti

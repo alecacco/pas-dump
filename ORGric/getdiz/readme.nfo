@@ -1,0 +1,127 @@
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+±±İ README for Outertech GetDiz 4.8 Ş±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+Copyright (c) 1998-2012 by Outertech.
+All Rights Reserved. Other brands and their products are
+trademarks of their respective holders.
+
+GetDiz is a fully featured freeware text editor which can replace Notepad while
+maintaining an incredible speed, ease of use and small size. You can display
+and edit any text files with GetDiz. Additionally it offers enhanced
+functionality with DIZ and NFO files, which are often included in ZIP archives.
+GetDiz is able to display ASCII art correctly and save text, nfo and diz files
+as GIF images. The user interface is handy, small and specific. An optional
+USB-Stick installation is also possible.
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+±±İ Status Ş±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+GetDiz is freeware.
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+±±İ What's new Ş±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+4.8
+
+ş Option to automatically add txt extension to files (default off)
+ş Fixed problems with monospace fonts in file type font configuration
+ş GetDiz will automatically reset the window position if a monitor
+  is removed where GetDiz was placed on
+
+4.7
+
+ş Font and Text Color can be set individually for
+  each file type (.txt, .diz etc)
+ş Fixed Autoheight problems with some fonts
+ş File exists checks are done only on demand,
+  so GetDiz will not wake up secondary hard drives
+
+4.6
+
+ş Improved Multi Monitor support
+ş Unobtrusive line and column position display
+ş New Hotkeys (e.g. ESC closes main window)
+ş Faster file loading
+ş Updated translations
+
+4.5
+
+ş Windows 7 support
+ş File Properties function
+ş Ability to edit system files
+ş User interface tweaks
+ş More translations
+
+4.4
+
+ş Text Drag & Drop
+ş Hungarian translation
+
+4.3
+
+ş Added format functions: Join lines,Lowercase,Uppercase,
+  Charset to UTF-8, UTF-8 to Charset
+ş Additional translations
+
+4.2
+
+ş Ability to save text, nfo and diz files as GIF images
+ş User Interface improvements
+ş Two Fonts included (GetDizLarge and GetDizTiny)
+ş Optional Shell menu integration
+ş Several new translations
+
+4.1
+
+ş New functions: Redo, Delete line, Insert Date/Time 
+ş Optional installation on removable drives (e.g. USB sticks) 
+ş Several new translations 
+ş Option to show line numbers 
+ş Minor Bug fixes 
+
+4.0
+
+ş Windows Vista support
+
+New Options
+
+ş Always on Top 
+ş Set window size according to file dimensions 
+ş Auto-Copy Selection to Clipboard 
+ş Trim Selection before Copy 
+ş Allow only one GetDiz instance 
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+±±İ Distribution Ş±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+We allow the free distribution of GetDiz, but we retain ownership and
+copyright of GetDiz and its source code in its entirety.
+You may distribute GetDiz only subject to the following conditions: 
+
+You are allowed to distribute GetDiz through the Internet, BBS's, Shareware
+distribution libraries, CD-ROMs and Magazine Cover Media. You may charge a
+distribution fee for the package, but you must not represent in any way that
+you are selling GetDiz itself. GetDiz may be bundled and distributed together
+with other software products. 
+
+You may not modify the program or documentation files in any way. You must
+include all the files that were in the original distribution. You may not
+decouple or otherwise reduce GetDiz to a human perceivable form. You may not
+sell GetDiz or charge a distribution fee, except to recover the media costs. 
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+±±İ Installation Ş±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+To install GetDiz run setup.exe.
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+±±İ Contact Ş±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+email: support@outertech.com
+web: http://www.outertech.com
